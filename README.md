@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdekeyeAdeniyi
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Frontend Web development
 - 🌱 I’m currently learning Node js and React js
 - 💞️ I’m looking to collaborate on Tech Experts
 
