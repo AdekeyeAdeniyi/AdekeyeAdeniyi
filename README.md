@@ -1,15 +1,24 @@
 # 💫 About Me:
 👋 Hi, I’m Emmanuel
-I’m a full-stack software engineer focused on building reliable, well-structured web applications. I work across frontend and backend systems, designing clean user interfaces, building APIs, and debugging complex issues end-to-end.
 
-### 🧠 What I do well
-- 🧩 Debug tricky issues across the full stack
-- 🎨 Build clean, intuitive UIs
-- 🔌 Design and implement scalable backend APIs
-- 🧪 Maintain a strong testing and quality mindset
-- 🚀 Learn new tools and technologies quickly
-### 🛠️ Tech stack
-- Languages: JavaScript, Python
+I'm a software engineer transitioning into AI engineering, driven by curiosity about how things work beneath the surface. I enjoy exploring unfamiliar ideas, investigating how systems reason and behave, and turning what I discover through research and experimentation into reliable, production-ready AI systems.
+
+## 🧠 What I Do
+- 🧩 Debug complex problems and design effective solutions
+- 🎨 Build clean, responsive user interfaces
+-🔌 Develop backend APIs and services
+- 🤖 Build AI agents, tool-using systems, and intelligent applications
+- 🧪 Focus on testing, evaluation, and AI system reliability
+
+## 🛠️ Tech Stack
+- Languages: Python, JavaScript, TypeScript
+- AI Engineering: LLM APIs, Hugging Face, Ollama, Pydantic
+- Backend: FastAPI, Node.js, NestJS
+- AI Frameworks: LangGraph, MCP
+- Databases: PostgreSQL, SQLite
+- Testing & Quality: Pytest, HTTPX
+- Tools & Deployment: Git, Docker
+- Frontend: React, Next.js, Vue.js
 
 
 ## 🌐 Socials:
