@@ -6,7 +6,7 @@ I'm a software engineer transitioning into AI engineering, driven by curiosity a
 ## 🧠 What I Do
 - 🧩 Debug complex problems and design effective solutions
 - 🎨 Build clean, responsive user interfaces
--🔌 Develop backend APIs and services
+- 🔌 Develop backend APIs and services
 - 🤖 Build AI agents, tool-using systems, and intelligent applications
 - 🧪 Focus on testing, evaluation, and AI system reliability
 
